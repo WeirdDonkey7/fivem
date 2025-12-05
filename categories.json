@@ -1,0 +1,20 @@
+[
+  {
+    "id": "weapon_fx",
+    "name": "Weapon FX & Tracers",
+    "icon": "🔫",
+    "description": "Weapon effects, tracers, and visual enhancements"
+  },
+  {
+    "id": "blood_fx",
+    "name": "Blood FX Packs",
+    "icon": "🩸",
+    "description": "Blood effects, gore, and decals"
+  },
+  {
+    "id": "kill_fx",
+    "name": "Kill Effects",
+    "icon": "💀",
+    "description": "Kill effects and screen enhancements"
+  }
+]
