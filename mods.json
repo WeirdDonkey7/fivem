@@ -1,16 +1,16 @@
 {
   "weapon_fx": [
     {
-      "name": "Realistic Tracers",
+      "name": "Green hitmarker",
       "type": "Tracers",
       "description": "High-quality bullet tracers",
       "version": "1.3.0",
-      "author": "FX Studios",
+      "author": "WeirdDonkey7",
       "size": "45 MB",
       "downloads": 1250,
       "date": "2024-01-15",
       "install_location": "mods",
-      "files": ["tracers.rpf", "weapons.meta"],
+      "files": ["Green hitmarker bloodfx-Vix#6904.rpf"],
       "download_url": "https://github.com/FiveMMods/RealisticTracers/releases/download/v1.3.0/tracers.zip",
       "github_url": "https://github.com/FiveMMods/RealisticTracers",
       "preview_url": "https://raw.githubusercontent.com/FiveMMods/ModsDatabase/main/previews/tracers.jpg",
